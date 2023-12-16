@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "./static/js/main.260c421d.js",
+    "static/media/lemmikit6.png": "./static/media/lemmikit6.8626d3c6c5368e2ef3b3.png",
+    "static/media/lemmikit.jpg": "./static/media/lemmikit.417fa197b897821bdb12.jpg",
+    "static/media/lemmikit5.jpg": "./static/media/lemmikit5.53f657dc92a978bc2464.jpg",
+    "index.html": "./index.html",
+    "main.260c421d.js.map": "./static/js/main.260c421d.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.260c421d.js"
+  ]
+}
